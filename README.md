@@ -35,10 +35,10 @@ Paste any security log and SOC-GPT instantly returns:
 
 ## Demo
 
-![SOC-GPT Homepage](screenshots/homepage.png)
-![Analysis Results](screenshots/analysis.png)
-![MITRE Mapping](screenshots/mitre.png)
-![Prevention Tab](screenshots/prevention.png)
+![SOC-GPT Homepage](screenshots/Project.png)
+![Analysis Results](screenshots/project1.png)
+![MITRE Mapping](screenshots/project2.png)
+![Prevention Tab](screenshots/project3.png)
 
 ---
 
